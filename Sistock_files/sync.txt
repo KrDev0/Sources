@@ -1,2 +1,2 @@
-1.6
+1.6.0.0
 https://github.com/CrisMod/Sources/raw/main/Sistock_files/Sistock.zip
